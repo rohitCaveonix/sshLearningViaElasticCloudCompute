@@ -37,3 +37,8 @@ build/
 ### OS Files ###
 .DS_Store
 Thumbs.db
+
+### Secrets & Keys ###
+*.pem
+*.key
+
